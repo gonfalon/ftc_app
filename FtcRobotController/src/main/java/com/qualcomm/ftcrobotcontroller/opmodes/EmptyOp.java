@@ -14,7 +14,7 @@ public class EmptyOp extends OpMode {
 
     }
 
-    /*
+    /**
     * Code to run when the op mode is first enabled goes here
     * @see com.qualcomm.robotcore.eventloop.opmode.OpMode#start()
     */
@@ -24,7 +24,7 @@ public class EmptyOp extends OpMode {
     }
 
 
-    /*
+    /**
     * This method will be called repeatedly in a loop
     * @see com.qualcomm.robotcore.eventloop.opmode.OpMode#loop()
     */
@@ -33,7 +33,13 @@ public class EmptyOp extends OpMode {
 
     }
 
-    /*
+
+    /**
+    * This method will be called repeatedly in a loop
+    * @see com.qualcomm.robotcore.eventloop.opmode.OpMode#loop()
+    *
+
+    /**
     * Code to run when the op mode is first disabled goes here
     * @see com.qualcomm.robotcore.eventloop.opmode.OpMode#stop()
     */
